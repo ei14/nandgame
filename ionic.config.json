@@ -1,0 +1,7 @@
+{
+  "name": "nandgame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
