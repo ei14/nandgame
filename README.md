@@ -1,2 +1,1 @@
-# nandgame
-NAND, The Game
+# NAND, The Game
