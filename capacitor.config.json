@@ -1,8 +1,0 @@
-{
-  "appId": "io.ionic.starter",
-  "appName": "nandgame",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build",
-  "cordova": {}
-}
